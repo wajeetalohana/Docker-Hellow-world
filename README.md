@@ -8,7 +8,9 @@ https://www.docker.com/get-started/
 
 **Step 2:**
 Build the image:
+
 cd docker-hello-world-new
+
 docker build  .
 
 
